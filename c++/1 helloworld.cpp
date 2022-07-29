@@ -7,6 +7,6 @@ using namespace std;
 molte linee
 */
 int main() {
-    cout<<'Hello World\n'<<endl;
-    system('pause');
+    cout<<"Hello World\n"<<endl;
+    system("pause");
 }

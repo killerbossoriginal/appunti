@@ -3,12 +3,10 @@ using namespace std;
 
 int main() {
     int numero;
-    cout<<'Inserisci un numero '
+    cout<<"Inserisci un numero ";
     cin>>numero;
-    cout<<'Hai inserito '
+    cout<<"Hai inserito ";
     cout<<numero;
 
     cout<<endl;
-
-    system('pause');
 }
