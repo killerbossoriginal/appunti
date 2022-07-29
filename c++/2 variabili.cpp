@@ -10,7 +10,7 @@ int main() {
     bool d = false;
     bool e = 1; // true
     bool f = true;
-    char g = 'g';
+    char g = "g";
     string h = "Questa è una prova";
     cout<<a;
     cout<<endl;

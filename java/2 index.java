@@ -11,8 +11,8 @@ public class index {
         */
 
         // Stampare
-        System.out.println('Scrivi una nuova riga');
-        System.out.print('Scrivi');
+        System.out.println("Scrivi una nuova riga");
+        System.out.print("Scrivi");
 
         // Le variabili
         int a = 10; // Numero intero
@@ -21,12 +21,12 @@ public class index {
         boolean d = true; // Vero
         boolean e = false; // Falso
 
-        // Piu' variabili assieme
+        // Piu" variabili assieme
         int g, h, i;
         int j = 9, k = 10, l = 11;
 
         // Le stringhe
-        String f = new String('Il mio testo');
+        String f = new String("Il mio testo");
 
     }
 }

@@ -10,13 +10,13 @@ public class index {
     }
     
     String/*data type da far ritornare*/ a() {
-        return 'Ciao';
+        return "Ciao";
     }
     void a() {
 // niente return
     }
 }
-// Overload di metodo: quando piu' metodi hanno lo stesso nome e 
+// Overload di metodo: quando piu" metodi hanno lo stesso nome e 
 // hanno parametri di data type diversi java calcola in automatico
 // quale deve eseguire a seconda del  data type del parametro che li
 // viene passato

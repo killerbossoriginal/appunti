@@ -1,8 +1,8 @@
-public class index {
-    public static void main(String args[]) {
-        Test prova = new Test
+public class constructor {
+    public constructor(){
+        System.out.println("Questo è un constructor");
     }
-    public Test (){
-        System.out.println('Questo è un constructor')
+    public static void main(String args[]) {
+        constructor prova = new constructor();
     }
 }
