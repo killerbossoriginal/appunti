@@ -6,3 +6,4 @@ Simboli speciali
 [] Parentesi quadre
 {} Parentesi graffe
 \# Hashtag
+@ chiocciola
