@@ -1,0 +1,21 @@
+<!-- index.html -->
+<html>
+  <body>
+    <div id="app"></div>
+    <script type="text/javascript">
+        const app = document.getElementById('app');
+
+        //creare h1
+        const header = document.createElement('h1');
+
+        //creare un testo
+        const headerContent = document.createTextNode('Develop. Preview. Ship. 🚀');
+
+        //inserire il testo in h1
+        header.appendChild(headerContent);
+
+        //inserire h1 in div
+        app.appendChild(header);
+    </script>
+  </body>
+</html>
