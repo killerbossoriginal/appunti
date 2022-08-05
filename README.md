@@ -7,3 +7,6 @@ Simboli speciali
 {} Parentesi graffe
 \# Hashtag
 @ chiocciola
+
+next.js:
+sono arrivato [qui](https://nextjs.org/learn/basics/assets-metadata-css)
