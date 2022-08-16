@@ -8,8 +8,8 @@ Appunti del Killer
 #### [python](./python/readme.md)
 
 Simboli speciali
-() Parentesi tonde
-[] Parentesi quadre
-{} Parentesi graffe
-\# Hashtag
-@ chiocciola
+() Parentesi tonde <br>
+[] Parentesi quadre <br>
+{} Parentesi graffe <br>
+\# Hashtag <br>
+@ chiocciola <br>

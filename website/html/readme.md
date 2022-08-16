@@ -17,12 +17,12 @@ ricordati di mettere:
 ## tag di html
 title: imposta il titolo della scheda (head)
 
-[a](./tags/a.md): crea un reindirizzamento
-[br](./tags/br.md): va a capo
-[em](./tags/em.md): scrive in _corsivo_
-[h1 -> h6](./tags/h.md): sono i titoli
-[p](./tags/p.md): paragrafo di testo
-[strong](./tags/strong.md): scrive in **grassetto**
+[a](./tags/a.md): crea un reindirizzamento <br>
+[br](./tags/br.md): va a capo <br>
+[em](./tags/em.md): scrive in _corsivo_ <br>
+[h1 -> h6](./tags/h.md): sono i titoli <br>
+[p](./tags/p.md): paragrafo di testo <br>
+[strong](./tags/strong.md): scrive in **grassetto** <br>
 <!-- questo è un commento -->
 
 ### imput
