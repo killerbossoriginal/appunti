@@ -22,6 +22,7 @@ em: in _corsivo_
 strong: in **grassetto**
 a: crea un reindirizzamento
 br: va a capo
+h1 -> h6 : sono i titoli
 <!-- questo è un commento -->
 
 ## attributi di html
