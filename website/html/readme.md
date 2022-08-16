@@ -17,20 +17,16 @@ ricordati di mettere:
 ## tag di html
 title: imposta il titolo della scheda (head)
 
-p: paragrafo di testo
-em: in _corsivo_
-strong: in **grassetto**
-a: crea un reindirizzamento
-br: va a capo
-h1 -> h6 : sono i titoli
+[a](./tags/a.md): crea un reindirizzamento
+[br](./tags/br.md): va a capo
+[em](./tags/em.md): scrive in _corsivo_
+[h1 -> h6](./tags/h.md): sono i titoli
+[p](./tags/p.md): paragrafo di testo
+[strong](./tags/strong.md): scrive in **grassetto**
 <!-- questo è un commento -->
-
-## attributi di html
-### a
-href='' (specifica il link)
-title='' (specifica il titolo della pagina quando il cursore ci va sopra)
-target="_blank" (per aprire il link in una nuova pagina)
 
 ### imput
 type="" (tipo di imput)
 disabled="disabled" (disabilita l'imput)
+
+#### [Indietro](../readme.md)
