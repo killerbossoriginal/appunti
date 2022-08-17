@@ -21,9 +21,15 @@ title: imposta il titolo della scheda (head)
 [br](./tags/br.md): va a capo <br>
 [em](./tags/em.md): scrive in _corsivo_ <br>
 [h1 -> h6](./tags/h.md): sono i titoli <br>
+[HTML](./tags/html.md): richiesto <br>
+[img](./tags/img.md): inserisce un immagine <br>
 [p](./tags/p.md): paragrafo di testo <br>
 [strong](./tags/strong.md): scrive in **grassetto** <br>
 <!-- questo è un commento -->
+
+## attributes di html
+[style](./attributes/style.md): Modifica lo stile <br>
+[title](./attributes/title.md): specifica il titolo della pagina quando il cursore ci va sopra <br>
 
 ### imput
 type="" (tipo di imput)
