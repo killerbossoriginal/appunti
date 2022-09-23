@@ -2,10 +2,8 @@
 using namespace std;
 
 int main() {
-    int numero;
-    cout<<"Inserisci un numero ";
-    cin>>numero;
-    cout<<"Hai inserito "<<numero;
-
-    cout<<endl;
+  string parola;
+  cout << "Inserisci un parola: ";
+  cin >> parola;
+  cout << "Hai scritto " << parola << endl;
 }
